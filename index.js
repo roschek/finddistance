@@ -1,4 +1,4 @@
-const searchStr = "cat dog javascript python ruby word some other word"
+const searchStr = "cat dog javascript python ruby some other word"
 
 
  function findLength(str, word1, word2) {
